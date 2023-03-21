@@ -18,3 +18,6 @@ usage:
     NativePayload_DCP.exe DYN-TEXT-FILE CHUNK NativePayload_Tinjection.cs TPID "fc,48,83,e4,f0,e8,cc,00,00,00,41,51,..."
     NativePayload_DCP.exe DYN-TEXT-FILE Src NativePayload_Tinjection.cs TPID
 
+
+
+   ![](https://github.com/DamonMohammadbagher/NativePayload_DCP/blob/main/NativePayload_DCP.png)
