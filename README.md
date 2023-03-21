@@ -6,6 +6,7 @@
 
 #### Note: ALL AVs in 2017 Bypassed by this simple code but for now i am not sure for this. 
 
+<p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DamonMohammadbagher/NativePayload_DCP"/></a></p>
 
 usage:
       
